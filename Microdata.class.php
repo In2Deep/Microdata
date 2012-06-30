@@ -9,7 +9,7 @@ I'd appreciate you leaving this comment here and the link to the original blog-p
 class Microdata
 {
   
-  public $this->microdata;
+  public $microdata;
   private $_complete, $_parent, $_friendlyReferences;
   
   /* helper function to aid in walking through recursive microdata */
